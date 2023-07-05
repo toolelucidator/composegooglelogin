@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1002852434700",
+    "project_id": "loginwear-44229",
+    "storage_bucket": "loginwear-44229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002852434700:android:58352e7ebe320c2b97bf29",
+        "android_client_info": {
+          "package_name": "com.example.composegooglelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002852434700-f06ak8a92rk9love1cp5rlon17ml7h3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.composegooglelogin",
+            "certificate_hash": "7bdc09ce6442b5a3bc7e2a409dadf248b5201995"
+          }
+        },
+        {
+          "client_id": "1002852434700-onqetrs0db58ra2jqj01h2662r6urd4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1rMVGKtL7eS3xpfVwndBqYRNNjmEZevQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002852434700-onqetrs0db58ra2jqj01h2662r6urd4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
